@@ -1,27 +1,31 @@
-# Data Analytics Program: Story of *___trainee_name__*
+# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
 Here is the place to tell the story of your experience of the Data Analytics Program.
 
 **Instruction**: Fork, fill and embellish this repository. *Remove this instruction when are done.*
 
 ## Let me introduce Myself
-Add your presentation here..
+`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
 
+## How would I describe my experience in the data analytics program ? 
+`Please add text here...`
 
+## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
+`Please add text here...`
 
-## What is the Data Analytics Program for Me ?
-...
+## What enticed me to join the Data Analytics Program?
+`Please add text here...`
 
-## What is the Career Accelerator for Me ?
-...
+## What would I say my progress in tech has been since joining the program ? 
+`Please add text here...`
 
-## Reasons why I joined the program ?
-...
+## What are my plans for the future ?
+`Please add text here...`
 
-## What did I learn during the program ?
-... 
+## What is my dream company or role ?
+`Please add text here...`
 
 ## 1st Phase Projects' Summary Table
-...
+`Please add text here...`
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -56,7 +60,7 @@ Add your presentation here..
 </table>
 
 ## Career Accelerator Projects' Summary Table
-...
+`Please add text here...`
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -132,8 +136,8 @@ Add your presentation here..
 </tbody>
 </table>
 
-## Trainee's Contacts
-Add your contacts here..
+## My Contacts
+`Please add your contacts here...`
 
-## Freestyle
+**NB:**
 Feel free to add more sections if you want to share some thoughts or personal works, etc.
