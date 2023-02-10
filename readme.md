@@ -136,6 +136,52 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 </tbody>
 </table>
 
+## AZUBI Interview 
+1. What advice will you give someone considering joining tech? 
+
+    `Reply here please.`
+
+1. What did you think about the quality of teaching and level of assistance? 
+
+    `Reply here please.`
+
+1. What did you like most about the program? 
+
+    `Reply here please.`
+
+1. Are the lectures engaging and interesting? 
+
+    `Reply here please.`
+
+1. What happens if you miss a lecture? 
+
+    `Reply here please.`
+
+1. What do you think of the flexibility of the program? 
+
+    `Reply here please.`
+
+1. Do the projects worked on help you test your ability / skills? 
+
+    `Reply here please.`
+
+1. What will you change about the program if you had a chance? 
+
+    `Reply here please.`
+
+1. What do you think about the fees structure? 
+
+    `Reply here please.`
+
+1. Would you say Azubi Has Changed your life ? 
+
+    `Reply here please.`
+
+1. Do you think you have gained enough skills through our programme to land your dream job ? 
+
+    `Reply here please.`
+
+
 ## My Contacts
 `Please add your contacts here...`
 
