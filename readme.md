@@ -67,18 +67,18 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <td>#</td>
 <td>Project's Name</td>
 <td>Description</td>
-<td>App</td>
 <td>Article</td>
-<td>App repository</td>
-<td>Dev repository</td>
+<td>Deployed App</td>
+<td>App Repository</td>
+<td>Dev Repository</td>
 </tr>
 
 <tr>
 <td>1</td>
 <td> </td>
 <td>Add the project description here...</td>
-<td>Add the app link here...</td>
 <td>Add the article link here...</td>
+<td>Add the deployed app link here...</td>
 <td>Add the app repository link here...</td>
 <td>Add the development repository link here...</td>
 </tr>
@@ -125,6 +125,16 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 <tr>
 <td>6</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+
+<tr>
+<td>Capstsone</td>
 <td> </td>
 <td> </td>
 <td> </td>
